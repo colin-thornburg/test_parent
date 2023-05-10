@@ -1,0 +1,1 @@
+Select 'marketing' as BU

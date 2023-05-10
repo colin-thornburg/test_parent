@@ -1,1 +1,0 @@
-Select * from {{ ref('mktin_my_third_model') }}
