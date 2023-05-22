@@ -1,0 +1,1 @@
+Select * from {{ ref('my_second_marketing_model') }}
