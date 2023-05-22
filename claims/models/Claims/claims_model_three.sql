@@ -1,0 +1,1 @@
+Select * from {{ ref('claims_model_two') }}

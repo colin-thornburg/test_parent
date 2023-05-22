@@ -1,1 +1,0 @@
-Select * from {{ ref('marketing_model') }}
